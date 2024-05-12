@@ -5,3 +5,4 @@ metadata:
 data:
   DATABASE_URL: jdbc:mysql://goodburguer.c8nvenlrrp9x.us-east-1.rds.amazonaws.com:3306/goodburguer
   MYSQL_DATABASE: goodburguer
+  DATABASE_PASSWORD: Y6nX4nJrtOW7vyVNLfUe
