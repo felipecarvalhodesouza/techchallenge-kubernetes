@@ -1,6 +1,6 @@
 resource "aws_eks_access_entry" "access-entry" {
-  cluster_name      = aws_eks_cluster.goodburguer-eks-cluster.name
+  cluster_name      = aws_eks_cluster.eks-cluster.name
   principal_arn     = var.principalArn
-  kubernetes_groups = ["techchallenge"]
+  kubernetes_groups = ["tech", "challenge"]
   type              = "STANDARD"
 }

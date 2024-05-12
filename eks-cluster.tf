@@ -1,4 +1,4 @@
-resource "aws_eks_cluster" "goodburguer-eks-cluster" {
+resource "aws_eks_cluster" "eks-cluster" {
   name     = var.projectName
   role_arn = var.labRole
 
