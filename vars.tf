@@ -22,7 +22,7 @@ variable "subnetC" {
   default = "subnet-0183c3c66a25b44ed"
 }
 
-variable "vcpId" {
+variable "vpcId" {
   default = "vpc-07f6a22b67492e4c2"
 }
 
