@@ -3,7 +3,7 @@ variable "regionDefault" {
 }
 
 variable "labRole" {
-  default = "arn:aws:iam::615687076434:role/LabRole"
+  default = "arn:aws:iam::221772931871:role/LabRole"
 }
 
 variable "projectName" {
