@@ -11,19 +11,19 @@ variable "projectName" {
 }
 
 variable "subnetA" {
-  default = "subnet-0c1d5d6102025a707"
+  default = "subnet-0c6de2813149569c6"
 }
 
 variable "subnetB" {
-  default = "subnet-00b9d57e8a157ac97"
+  default = "subnet-0d4bf8ba4dab43ebb"
 }
 
 variable "subnetC" {
-  default = "subnet-0183c3c66a25b44ed"
+  default = "subnet-09969bb6b2d8487f0"
 }
 
 variable "vpcId" {
-  default = "vpc-07f6a22b67492e4c2"
+  default = "vpc-06bfcd03a849b1909"
 }
 
 variable "instanceType" {
